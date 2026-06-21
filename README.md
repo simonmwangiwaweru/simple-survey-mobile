@@ -26,7 +26,7 @@ Mobile app for the Simple Survey platform — built with **React Native** and **
 ## Getting Started
 
 ```bash
-git clone https://github.com/symonmwangi/simple-survey-mobile.git
+git clone https://github.com/brendah-4/simple-survey-mobile.git
 cd simple-survey-mobile
 npm install
 npx expo start
@@ -53,7 +53,7 @@ Requires an [Expo account](https://expo.dev) and EAS CLI.
 
 ## API
 
-Connects to: `https://simple-survey-api-production.up.railway.app/api`
+Connects to: `https://simple-survey-api-c3kj.onrender.com`
 
 Configured in `src/lib/api.js`.
 
